@@ -8,6 +8,28 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Weber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Weber-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+  <img align="center" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+
+
+  <img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />
+
+  <img align="left" alt="Matplotlib" width="26px" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" />
+
+  <img align="left" alt="Seaborn" width="26px" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" />
+
+  <img align="left" alt="Plotly" width="26px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" />
+
+  [<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+
+  <img align="left" alt="Streamlit" width="26px" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
+
+  <img align="left" alt="Flask" width="30px" src="https://banner2.cleanpng.com/20180508/qyw/kisspng-flask-python-web-framework-web-application-tutoria-5af1dbb70b6430.1030595115257998630467.jpg" />
+
+  <img align="left" alt="GitHub" width="26px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png" />
+
+  
+  
+  
   <img align="center" alt="Weber-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Weber-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Weber-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">

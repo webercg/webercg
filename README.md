@@ -12,7 +12,7 @@
   <img align="left" alt="Matplotlib" height="30" width="40" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" />
   <img align="left" alt="Seaborn" height="30" width="40" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" />
   <img align="left" alt="Plotly" height="30" width="40" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" />
-  [<img align="left" alt="Scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+  <img align="left" alt="Scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
   <img align="left" alt="Streamlit" height="30" width="40" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" />
   <img align="left" alt="Flask" height="30" width="40" src="https://banner2.cleanpng.com/20180508/qyw/kisspng-flask-python-web-framework-web-application-tutoria-5af1dbb70b6430.1030595115257998630467.jpg" />
   <img align="left" alt="GitHub" height="30" width="40" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png" />
